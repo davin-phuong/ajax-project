@@ -1,0 +1,38 @@
+body {
+  background-color: #f3f4f6;
+}
+
+h1 {
+  font-family: "Proza libre", sans-serif;
+  color: white;
+  font-size: 3rem;
+}
+
+.blue-bg {
+  background-color: #4f74c8;
+}
+
+.search-bar {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  margin-top: 2rem;
+  color: #949497;
+  font-size: 1rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.search-button {
+  background: none;
+  border: none;
+  position: absolute;
+  top: 2.7rem;
+  right: 0.5rem;
+}
+
+i {
+  color: #4f74c8;
+}

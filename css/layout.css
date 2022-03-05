@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+}
+
+.column-full {
+  width: 100%;
+}
+
+.display-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.align-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.width {
+  width: 50%;
+  position: relative;
+}
