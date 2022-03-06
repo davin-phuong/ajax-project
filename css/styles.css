@@ -25,6 +25,10 @@ h1 {
   font-family: "Open Sans", sans-serif;
 }
 
+.search-bar:hover {
+  cursor: text;
+}
+
 .search-button {
   background: none;
   border: none;
