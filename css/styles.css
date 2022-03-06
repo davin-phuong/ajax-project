@@ -33,6 +33,10 @@ h1 {
   right: 0.5rem;
 }
 
+.search-button:hover {
+  cursor: pointer;
+}
+
 i {
   color: #4f74c8;
 }
